@@ -3,7 +3,7 @@
  *  Algoritmos y estructura de datos 
  
 	yasmin Valdez , 14079
-	Alejandro del leon , 
+	Alejandro del leon ,  14345
  */
  
 import java.io.*;
